@@ -1,0 +1,11 @@
+This program is used to invert for the dispersion map for different periods.
+
+Please cite the papers listed below:
+
+Liang, C., Z. Liu, Q. Hua, Z. Zhu, J. Wu, 2019, The 3D azimuthal anisotropies and velocities in the eastern Tibetan Plateau extracted by an azimuth-dependent dispersion curve inversion method, Tectonics, DOI, ....
+
+
+You can start with the csh script "surftom_ans0.5_rsl.csh" to setup files and parameters. 
+Please contact the author by liangct@hotmail.com for more informatin.
+
+----2019/10/04 by Chuntao Liang
